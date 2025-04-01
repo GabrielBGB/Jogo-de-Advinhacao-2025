@@ -77,7 +77,7 @@ Apresentação
 
 ## Apresentação
 
-![](https://imgur.com/1qbZYIj.gif)
+![](https://imgur.com/usG9uv1.gif)
 
 ## Tecnologias
 
