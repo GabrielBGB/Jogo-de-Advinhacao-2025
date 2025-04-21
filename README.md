@@ -1,7 +1,7 @@
 ﻿# Jogo De Adivinhação
 <br>
 
-O ChatGPT disse:
+
 O jogo da adivinhação de números é um desafio no qual um jogador tenta adivinhar um número secreto dentro de um determinado intervalo. Ele pode ser jogado sozinho (contra um sistema) ou em grupo, onde uma pessoa escolhe o número e os outros tentam descobrir.
 
 Como funciona o jogo da adivinhação de números?
